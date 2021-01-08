@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://suleyman086:suleyman_br086@cluster0.fdvs3.mongodb.net/dbmern?retryWrites=true&w=majority",
+  "jwt_secret": "suleyman_key",
+  "baseUrl": "http://localhost:5000"
+}
